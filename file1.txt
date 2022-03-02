@@ -1,1 +1,2 @@
-Iniadalah baris ke -1 pada file1.txt
+Ini adalah baris ke -1 pada file1.txt
+Menambah baris baru
