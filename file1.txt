@@ -1,0 +1,1 @@
+Iniadalah baris ke -1 pada file1.txt
